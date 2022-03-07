@@ -1,6 +1,8 @@
 # GraphQL-Basics
 
-First Project for GraphQL Getting Started
+First Project for GraphQL Getting Started from the very basics. 
+
+Created graphql server using the express-graphql npm package, along with the basics of **#Schema #Query #Mutations #resolvers #SDL (ie. schema definition language of graphql)** and etc.
 
 ## Development server
 
@@ -16,7 +18,7 @@ npm install
 npm run start
 ```
 
-3. Open [http://localhost:8080](http://localhost:8080/results) with your browser to see the results of the scrape in your terminal.
+3. Open [http://localhost:8080/graphql](http://localhost:8080/graphql) with your browser to see the graphql playground.
 
 ## Reference
 See [Here](https://www.youtube.com/watch?v=dJjP0SbdIt0&list=PLdHg5T0SNpN1LfR4XZ8GY5nIeklHjFtSq)
